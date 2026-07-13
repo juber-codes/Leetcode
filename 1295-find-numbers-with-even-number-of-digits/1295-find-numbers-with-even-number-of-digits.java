@@ -5,16 +5,17 @@ class Solution {
         int even_count = 0;
 
         for(int i=0; i<n; i++){
-            int count =0;
+            
+            double digit =  Math.floor(Math.log10(10 * nums[i]));
 
-            while(nums[i] > 0){
-                count++;
-                nums[i] = nums[i] /10;
-            }
 
-            if(count % 2 ==0){
+            if(digit % 2 ==0){
                 even_count++;
             }
+
+            
+
+          
 
         }
 
