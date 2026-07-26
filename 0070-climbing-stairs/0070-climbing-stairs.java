@@ -4,15 +4,16 @@ class Solution {
         if(n<=2){
             return n;
         }
-        int fistt =1;
-        int second = 2;
+
+        int a =1;
+        int b =2;
 
         for(int i=3; i<=n; i++){
-            int curr = fistt+second;
-            fistt = second;
-            second = curr;
+            int result = a+b;
+            a = b;
+            b = result;
         }
-
-return second;
+        return b;
+        
     }
 }
