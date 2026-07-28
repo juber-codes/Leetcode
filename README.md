@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/juber-codes/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/juber-codes/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/juber-codes/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0258-add-digits](https://github.com/juber-codes/Leetcode/tree/master/0258-add-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/juber-codes/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/juber-codes/Leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/juber-codes/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
