@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/juber-codes/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0258-add-digits](https://github.com/juber-codes/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/juber-codes/Leetcode/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/juber-codes/Leetcode/tree/master/0326-power-of-three) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/juber-codes/Leetcode/tree/master/0258-add-digits) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/juber-codes/Leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
