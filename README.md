@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/juber-codes/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/juber-codes/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0507-perfect-number](https://github.com/juber-codes/Leetcode/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/juber-codes/Leetcode/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,10 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/juber-codes/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/juber-codes/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/juber-codes/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/juber-codes/Leetcode/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/juber-codes/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/juber-codes/Leetcode/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/juber-codes/Leetcode/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
