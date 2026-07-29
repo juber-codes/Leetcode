@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/juber-codes/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/juber-codes/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/juber-codes/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/juber-codes/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/juber-codes/Leetcode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/juber-codes/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
