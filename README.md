@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/juber-codes/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/juber-codes/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/juber-codes/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0507-perfect-number](https://github.com/juber-codes/Leetcode/tree/master/0507-perfect-number) |
 ## Binary Search
 |  |
 | ------- |
