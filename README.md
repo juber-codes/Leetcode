@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/juber-codes/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/juber-codes/Leetcode/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/juber-codes/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0290-word-pattern](https://github.com/juber-codes/Leetcode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/juber-codes/Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/juber-codes/Leetcode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/juber-codes/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## String Matching
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/juber-codes/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0392-is-subsequence](https://github.com/juber-codes/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/juber-codes/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
