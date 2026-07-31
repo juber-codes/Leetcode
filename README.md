@@ -2,13 +2,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/juber-codes/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/juber-codes/Leetcode/tree/master/0392-is-subsequence) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/juber-codes/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/juber-codes/Leetcode/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/juber-codes/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
@@ -17,13 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/juber-codes/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/juber-codes/Leetcode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/juber-codes/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/juber-codes/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/juber-codes/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0069-sqrtx](https://github.com/juber-codes/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/juber-codes/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/juber-codes/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
@@ -39,52 +40,53 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/juber-codes/Leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/juber-codes/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/juber-codes/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/juber-codes/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0069-sqrtx](https://github.com/juber-codes/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/juber-codes/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/juber-codes/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/juber-codes/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0392-is-subsequence](https://github.com/juber-codes/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/juber-codes/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/juber-codes/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/juber-codes/Leetcode/tree/master/0509-fibonacci-number) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0258-add-digits](https://github.com/juber-codes/Leetcode/tree/master/0258-add-digits) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0258-add-digits](https://github.com/juber-codes/Leetcode/tree/master/0258-add-digits) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0326-power-of-three](https://github.com/juber-codes/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/juber-codes/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/juber-codes/Leetcode/tree/master/0509-fibonacci-number) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0136-single-number](https://github.com/juber-codes/Leetcode/tree/master/0136-single-number) |
 | [0228-summary-ranges](https://github.com/juber-codes/Leetcode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/juber-codes/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0268-missing-number](https://github.com/juber-codes/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/juber-codes/Leetcode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/juber-codes/Leetcode/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0136-single-number](https://github.com/juber-codes/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/juber-codes/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/juber-codes/Leetcode/tree/master/0342-power-of-four) |
@@ -92,8 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/juber-codes/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/juber-codes/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0268-missing-number](https://github.com/juber-codes/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/juber-codes/Leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
