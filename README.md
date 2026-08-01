@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/juber-codes/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0136-single-number](https://github.com/juber-codes/Leetcode/tree/master/0136-single-number) |
 | [0228-summary-ranges](https://github.com/juber-codes/Leetcode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/juber-codes/Leetcode/tree/master/0268-missing-number) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/juber-codes/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0268-missing-number](https://github.com/juber-codes/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/juber-codes/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/juber-codes/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
