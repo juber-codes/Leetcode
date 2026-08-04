@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/juber-codes/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0645-set-mismatch](https://github.com/juber-codes/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/juber-codes/Leetcode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [3731-find-missing-elements](https://github.com/juber-codes/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/juber-codes/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/juber-codes/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/juber-codes/Leetcode/tree/main/0645-set-mismatch/) | Easy |
+| [3731-find-missing-elements](https://github.com/juber-codes/Leetcode/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/juber-codes/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/juber-codes/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/juber-codes/Leetcode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [3731-find-missing-elements](https://github.com/juber-codes/Leetcode/tree/master/3731-find-missing-elements) |
 ## Interactive
 |  |
 | ------- |
