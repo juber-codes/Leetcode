@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/juber-codes/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/juber-codes/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/juber-codes/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/juber-codes/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/juber-codes/Leetcode/tree/master/0392-is-subsequence) |
 ## String
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/juber-codes/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/juber-codes/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/juber-codes/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/juber-codes/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/juber-codes/Leetcode/tree/master/0509-fibonacci-number) |
@@ -128,4 +130,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/juber-codes/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/juber-codes/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/juber-codes/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/juber-codes/Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
