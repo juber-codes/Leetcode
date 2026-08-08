@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/juber-codes/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/juber-codes/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/juber-codes/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/juber-codes/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/juber-codes/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0290-word-pattern](https://github.com/juber-codes/Leetcode/tree/master/0290-word-pattern) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/juber-codes/Leetcode/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/juber-codes/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/juber-codes/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/juber-codes/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/juber-codes/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/juber-codes/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/juber-codes/Leetcode/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/juber-codes/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/juber-codes/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/juber-codes/Leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/juber-codes/Leetcode/tree/master/0268-missing-number) |
