@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/juber-codes/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/juber-codes/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/juber-codes/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -12,8 +12,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/juber-codes/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/juber-codes/Leetcode/tree/master/0392-is-subsequence) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/juber-codes/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/juber-codes/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/juber-codes/Leetcode/tree/master/0067-add-binary) |
@@ -23,14 +23,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/juber-codes/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/juber-codes/Leetcode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/juber-codes/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0424-longest-repeating-character-replacement](https://github.com/juber-codes/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/juber-codes/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/juber-codes/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/juber-codes/Leetcode/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/juber-codes/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/juber-codes/Leetcode/tree/main/0069-sqrtx/) | Easy |
@@ -51,8 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/juber-codes/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/juber-codes/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0069-sqrtx](https://github.com/juber-codes/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/juber-codes/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/juber-codes/Leetcode/tree/master/0268-missing-number) |
@@ -62,28 +63,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/juber-codes/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1539-kth-missing-positive-number](https://github.com/juber-codes/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/juber-codes/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0392-is-subsequence](https://github.com/juber-codes/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/juber-codes/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/juber-codes/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/juber-codes/Leetcode/tree/master/0509-fibonacci-number) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0067-add-binary](https://github.com/juber-codes/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/juber-codes/Leetcode/tree/master/0258-add-digits) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0258-add-digits](https://github.com/juber-codes/Leetcode/tree/master/0258-add-digits) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/juber-codes/Leetcode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/juber-codes/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/juber-codes/Leetcode/tree/master/0206-reverse-linked-list) |
@@ -92,8 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/juber-codes/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/juber-codes/Leetcode/tree/master/0509-fibonacci-number) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0041-first-missing-positive](https://github.com/juber-codes/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0136-single-number](https://github.com/juber-codes/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/juber-codes/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -106,8 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/juber-codes/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [3731-find-missing-elements](https://github.com/juber-codes/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0041-first-missing-positive](https://github.com/juber-codes/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0160-intersection-of-two-linked-lists](https://github.com/juber-codes/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/juber-codes/Leetcode/tree/master/0268-missing-number) |
@@ -115,11 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/juber-codes/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/juber-codes/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/juber-codes/Leetcode/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/juber-codes/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0645-set-mismatch](https://github.com/juber-codes/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [3731-find-missing-elements](https://github.com/juber-codes/Leetcode/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0067-add-binary](https://github.com/juber-codes/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/juber-codes/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/juber-codes/Leetcode/tree/master/0190-reverse-bits) |
@@ -130,8 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/juber-codes/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/juber-codes/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0268-missing-number](https://github.com/juber-codes/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/juber-codes/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/juber-codes/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -140,12 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/juber-codes/Leetcode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [3731-find-missing-elements](https://github.com/juber-codes/Leetcode/tree/master/3731-find-missing-elements) |
 ## Interactive
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/juber-codes/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/juber-codes/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/juber-codes/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/juber-codes/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -156,15 +158,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/juber-codes/Leetcode/tree/master/0707-design-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/juber-codes/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/juber-codes/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0707-design-linked-list](https://github.com/juber-codes/Leetcode/tree/master/0707-design-linked-list) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0190-reverse-bits](https://github.com/juber-codes/Leetcode/tree/master/0190-reverse-bits) |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/juber-codes/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 <!---LeetCode Topics End-->
