@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/juber-codes/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/juber-codes/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0290-word-pattern](https://github.com/juber-codes/Leetcode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/juber-codes/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/juber-codes/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/juber-codes/Leetcode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/juber-codes/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/juber-codes/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/juber-codes/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/juber-codes/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0383-ransom-note](https://github.com/juber-codes/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/juber-codes/Leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/juber-codes/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0645-set-mismatch](https://github.com/juber-codes/Leetcode/tree/main/0645-set-mismatch/) | Easy |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/juber-codes/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/juber-codes/Leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
