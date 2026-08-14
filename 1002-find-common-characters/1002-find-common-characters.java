@@ -1,39 +1,66 @@
 class Solution {
     public List<String> commonChars(String[] words) {
 
-        int[] alphabet = new int[26];
+        HashMap<Character, Integer> map = new HashMap<>();
 
         // Count characters of first word
         for (int i = 0; i < words[0].length(); i++) {
+
             char ch = words[0].charAt(i);
-            alphabet[ch - 'a']++;
+
+            if (map.containsKey(ch)) {
+                map.put(ch, map.get(ch) + 1);
+            } else {
+                map.put(ch, 1);
+            }
         }
 
-        // Compare with every other word
+        // Compare with remaining words
         for (int i = 1; i < words.length; i++) {
 
-            int[] current = new int[26];
+            HashMap<Character, Integer> current = new HashMap<>();
 
-            for (int j = 0; j < words[i].length(); j++) {
-                char ch = words[i].charAt(j);
-                current[ch - 'a']++;
+            String str = words[i];
+
+            for (int j = 0; j < str.length(); j++) {
+
+                char ch = str.charAt(j);
+
+                if (current.containsKey(ch)) {
+                    current.put(ch, current.get(ch) + 1);
+                } else {
+                    current.put(ch, 1);
+                }
             }
 
             // Keep minimum frequency
-            for (int j = 0; j < 26; j++) {
-                alphabet[j] = Math.min(alphabet[j], current[j]);
+            for (char ch : map.keySet()) {
+
+                if (current.containsKey(ch)) {
+
+                    int min = Math.min(
+                        map.get(ch),
+                        current.get(ch)
+                    );
+
+                    map.put(ch, min);
+
+                } else {
+                    map.put(ch, 0);
+                }
             }
         }
 
-        // Create answer
         List<String> ans = new ArrayList<>();
 
-        for (int i = 0; i < 26; i++) {
+        // Build answer
+        for (char ch : map.keySet()) {
 
-            while (alphabet[i] > 0) {
-                char ch = (char) ('a' + i);
+            int count = map.get(ch);
+
+            while (count > 0) {
                 ans.add(String.valueOf(ch));
-                alphabet[i]--;
+                count--;
             }
         }
 
