@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/juber-codes/Leetcode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/juber-codes/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/juber-codes/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [1002-find-common-characters](https://github.com/juber-codes/Leetcode/tree/master/1002-find-common-characters) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/juber-codes/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## String Matching
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/juber-codes/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0645-set-mismatch](https://github.com/juber-codes/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/juber-codes/Leetcode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [1002-find-common-characters](https://github.com/juber-codes/Leetcode/tree/master/1002-find-common-characters) |
 | [1539-kth-missing-positive-number](https://github.com/juber-codes/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [3731-find-missing-elements](https://github.com/juber-codes/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/juber-codes/Leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/juber-codes/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0645-set-mismatch](https://github.com/juber-codes/Leetcode/tree/main/0645-set-mismatch/) | Easy |
+| [1002-find-common-characters](https://github.com/juber-codes/Leetcode/tree/master/1002-find-common-characters) |
 | [3731-find-missing-elements](https://github.com/juber-codes/Leetcode/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
