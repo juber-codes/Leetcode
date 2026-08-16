@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/juber-codes/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/juber-codes/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/juber-codes/Leetcode/tree/main/0645-set-mismatch/) | Easy |
+| [0705-design-hashset](https://github.com/juber-codes/Leetcode/tree/master/0705-design-hashset) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/juber-codes/Leetcode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1002-find-common-characters](https://github.com/juber-codes/Leetcode/tree/master/1002-find-common-characters) |
 | [1539-kth-missing-positive-number](https://github.com/juber-codes/Leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/juber-codes/Leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/juber-codes/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0645-set-mismatch](https://github.com/juber-codes/Leetcode/tree/main/0645-set-mismatch/) | Easy |
+| [0705-design-hashset](https://github.com/juber-codes/Leetcode/tree/master/0705-design-hashset) |
 | [1002-find-common-characters](https://github.com/juber-codes/Leetcode/tree/master/1002-find-common-characters) |
 | [3731-find-missing-elements](https://github.com/juber-codes/Leetcode/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/juber-codes/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/juber-codes/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/juber-codes/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0705-design-hashset](https://github.com/juber-codes/Leetcode/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/juber-codes/Leetcode/tree/master/0707-design-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/juber-codes/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Stack
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/juber-codes/Leetcode/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/juber-codes/Leetcode/tree/master/0707-design-linked-list) |
 ## Divide and Conquer
 |  |
@@ -186,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/juber-codes/Leetcode/tree/master/0383-ransom-note) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/juber-codes/Leetcode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
