@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/juber-codes/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/juber-codes/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/juber-codes/Leetcode/tree/master/1154-day-of-the-year) |
+| [1185-day-of-the-week](https://github.com/juber-codes/Leetcode/tree/master/1185-day-of-the-week) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/juber-codes/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Binary Search
 |  |
