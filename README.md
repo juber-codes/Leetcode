@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/juber-codes/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/juber-codes/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/juber-codes/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/juber-codes/Leetcode/tree/master/0268-missing-number) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/juber-codes/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/juber-codes/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0075-sort-colors](https://github.com/juber-codes/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/juber-codes/Leetcode/tree/master/0136-single-number) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/juber-codes/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/juber-codes/Leetcode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/juber-codes/Leetcode/tree/master/0190-reverse-bits) |
 ## Sliding Window
