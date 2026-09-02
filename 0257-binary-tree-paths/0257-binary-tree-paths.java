@@ -1,42 +1,44 @@
 class Solution {
 
     public List<String> binaryTreePaths(TreeNode root) {
-        List<String> result = new ArrayList<>();
+    
+    List<String> result = new ArrayList<>();
 
-        if (root == null) {
-            return result;
-        }
-
-        findPaths(root, "", result);
-
+    if(root == null){
         return result;
     }
 
-    public void findPaths(TreeNode root, String path, List<String> result) {
+    findPath(root, "", result);
 
-        // Add current node to path
+    return result;
+
+    }
+
+    public void findPath(TreeNode root, String path, List result){
+
+        // add current path
         path += root.val;
 
-        // If leaf node, add complete path
-        if (isLeafNode(root)) {
+        if( isLeafNode(root)){
             result.add(path);
-            return;
+            return ;
         }
 
-        path += "->";
+        path +="->";
 
-        // Traverse left
-        if (root.left != null) {
-            findPaths(root.left, path, result);
+        // left side
+        if(root.left != null){
+            findPath(root.left, path, result);
         }
 
-        // Traverse right
-        if (root.right != null) {
-            findPaths(root.right, path, result);
+        if(root.right != null){
+            findPath(root.right, path, result);
         }
+
     }
 
-    public boolean isLeafNode(TreeNode root) {
-        return root.left == null && root.right == null;
+    public boolean isLeafNode(TreeNode root){
+ return root.left == null && root.right == null;
     }
+
 }
