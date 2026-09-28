@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/juber-codes/Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/juber-codes/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/juber-codes/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/juber-codes/Leetcode/tree/master/0075-sort-colors) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/juber-codes/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0018-4sum](https://github.com/juber-codes/Leetcode/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/juber-codes/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0075-sort-colors](https://github.com/juber-codes/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/juber-codes/Leetcode/tree/master/0136-single-number) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/juber-codes/Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/juber-codes/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/juber-codes/Leetcode/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/juber-codes/Leetcode/tree/master/0268-missing-number) |
