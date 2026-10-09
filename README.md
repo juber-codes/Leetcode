@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/juber-codes/Leetcode/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/juber-codes/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/juber-codes/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/juber-codes/Leetcode/tree/master/0067-add-binary) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/juber-codes/Leetcode/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/juber-codes/Leetcode/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/juber-codes/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/juber-codes/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/juber-codes/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/juber-codes/Leetcode/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/juber-codes/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0160-intersection-of-two-linked-lists](https://github.com/juber-codes/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/juber-codes/Leetcode/tree/master/0268-missing-number) |
